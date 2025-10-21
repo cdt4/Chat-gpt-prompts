@@ -14,6 +14,8 @@ Copy the prompt you want to use.
 
 Paste it into ChatGPT and watch it work
 
+obviously the newer the prompt the better it is
+
 ## Contributing
 
 Got a prompt that works really well? Feel free to open a pull request and add it!
