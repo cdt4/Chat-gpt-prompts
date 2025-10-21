@@ -22,9 +22,13 @@ Got a prompt that works really well? Feel free to open a pull request and add it
 
 
 ## Random info
+
 this repo will HOPEFULLY be updated daily 
+
 updates could range from 1 new prompt to 10
+
 It really just depends
+
 Im working on alot of things currently - 10/21/2025
 
 ## License
